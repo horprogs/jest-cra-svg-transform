@@ -1,0 +1,19 @@
+{
+  "name": "jest-cra-svg-transform",
+  "version": "1.0.0",
+  "description": "Transformation svg for Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horprogs/jest-cra-svg-transform.git"
+  },
+  "author": "Georgii Perepecho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/horprogs/jest-cra-svg-transform/issues"
+  },
+  "homepage": "https://github.com/horprogs/jest-cra-svg-transform#readme"
+}
