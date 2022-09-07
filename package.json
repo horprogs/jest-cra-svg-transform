@@ -1,6 +1,6 @@
 {
   "name": "jest-cra-svg-transform",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Transformation svg for Jest",
   "main": "index.js",
   "scripts": {
